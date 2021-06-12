@@ -1,0 +1,100 @@
+
+/* -----------------------------------
+FOOTER
+----------------------------------- */
+
+.footer {
+    font-size: 13px;
+    line-height: 1.8;
+    color: var(--secondary);
+    max-width: calc(var(--main-width) + var(--gap) * 20);
+    margin: 8rem auto 10px;
+    padding: calc((var(--footer-height) - var(--gap)) / 2) var(--gap);
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+
+.footer div.top {
+    grid-column: 1 / 3;
+    grid-row: 1;
+}
+
+.footer div.top img {
+    width: 35px;
+    margin-top: 0.5em;
+}
+
+
+/* -----------------------------------
+FOOTER - MOBILE
+----------------------------------- */
+@media (max-width: 375px) {
+    .footer { 
+        grid-template-columns: repeat(2, 1fr) !important;
+        grid-row-gap: 1rem;
+    }
+
+    .footer div.top {
+        grid-column: 1 / 4;
+        grid-row: 1;
+    }
+}
+
+.footer div {
+    padding-top: 1em;
+    border-top: 0.5px solid var(--tertiary);
+}
+
+.footer span {
+    margin-inline-start: 1px;
+    margin-inline-end: 1px;
+    display: block;
+}
+
+.footer hr {
+    border-top: 0.5px solid var(--tertiary);
+    border-width: 0.5px 0 0 0;
+    margin: 30px 0;
+}
+
+.footer a {
+    color: inherit;
+}
+
+.footer a:hover {
+    /*border-bottom: 1px solid var(--primary)*/
+}
+
+
+/* -----------------------------------
+"GO TO TOP"
+----------------------------------- */
+.top-link {
+    visibility: hidden;
+    position: fixed;
+    bottom: 60px;
+    right: 30px;
+    z-index: 99;
+    background: var(--light-on-dark);
+    width: 50px;
+    height: 50px;
+    padding: 12px;
+    font-size: 26px;
+    line-height: 26px;
+    border-radius: 64px;
+    transition: visibility .5s, opacity .8s linear
+}
+
+.top-link {
+    filter: drop-shadow(0px 0px 5px #ddd);
+}
+
+.footer a:hover,
+.top-link:hover {
+    color: var(--primary)
+}
+
+.top-link:focus,
+#theme-toggle:focus {
+    outline: 0
+}

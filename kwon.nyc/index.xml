@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kwon.nyc</title>
+    <link>http://kwon.nyc/</link>
+    <description>Recent content on Kwon.nyc</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 May 2021 22:46:11 -0400</lastBuildDate><atom:link href="http://kwon.nyc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Haircut but the title happens to be very long</title>
+      <link>http://kwon.nyc/notes/haircut/</link>
+      <pubDate>Sun, 09 May 2021 22:46:11 -0400</pubDate>
+      
+      <guid>http://kwon.nyc/notes/haircut/</guid>
+      <description>I got a haircut this weekend. Believe it or not, it was the first haircut I&amp;rsquo;ve gotten in New York (how long have I lived here? Eleven years).</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://kwon.nyc/about/</link>
+      <pubDate>Sat, 27 Mar 2021 18:07:40 -0400</pubDate>
+      
+      <guid>http://kwon.nyc/about/</guid>
+      <description>Hello, I&#39;m Rachel J. Kwon. I am a queer Korean American woman of average height in New York City. Like you, I am also a denizen of the internet. In 2016, I quit my job as a doctor (specifically, training to be a surgeon), which was one of the most important decisions of my life. It&amp;rsquo;s one of the topics I could talk about for 20 minutes without preparation, which they say is the sign of a thing you&amp;rsquo;re passionate about, or that you&amp;rsquo;re a rambler (I&amp;rsquo;m both 💅).</description>
+    </item>
+    
+    <item>
+      <title>Colophon</title>
+      <link>http://kwon.nyc/colophon/</link>
+      <pubDate>Sat, 27 Mar 2021 18:07:40 -0400</pubDate>
+      
+      <guid>http://kwon.nyc/colophon/</guid>
+      <description>I use Hugo and DeployHQ to generate and deploy the site, respectively, and Bitbucket to host the source code. Locally, I use Byword to write and edit Markdown files, and Sublime Text to write and edit code.
+The incredibly detailed illustration of my visage was done by my friend Leigh Peterson, who also taught me how to bathe a cat. (Those were two separate favors.)
+I don&amp;rsquo;t really use design software to design websites, but I probably should.</description>
+    </item>
+    
+    <item>
+      <title>Goodbye and Hello</title>
+      <link>http://kwon.nyc/notes/why-i-quit-medicine/</link>
+      <pubDate>Tue, 26 Apr 2016 22:02:56 -0400</pubDate>
+      
+      <guid>http://kwon.nyc/notes/why-i-quit-medicine/</guid>
+      <description>As some of you have heard, I recently resigned from surgical residency, and am leaving clinical medicine.
+Ten years ago, I decided to be a doctor. It was a decision that made perfect sense at the time: I wanted to help people who were suffering, and I was fortunate to have the ability and resources to gain entry into medical school. I wasn&amp;rsquo;t sure which specialty would be my calling, but shortly after starting my clinical rotations I fell in love with surgery.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://kwon.nyc/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://kwon.nyc/contact/</guid>
+      <description>Send me a message at rachel.kwon at gmail.com
+Submit  --  </description>
+    </item>
+    
+    <item>
+      <title>Links</title>
+      <link>http://kwon.nyc/links/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://kwon.nyc/links/</guid>
+      <description>Internet friends and people I like:
+ Leigh Peterson Chris Glass Marianne Max Eric Hu Racquel Rands Jung Yun (and Maybe) Sam Mok  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+baseURL = "http://kwon.nyc/"
+languageCode = "en-us"
+title = "Kwon.nyc"
+theme = "papermod"
+publishDir = "kwon.nyc"
+
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 10
+
+[[menu.main]]
+identifier = "notes"
+name = "Notes"
+url = "/notes/"
+weight = 20
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

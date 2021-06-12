@@ -1,0 +1,34 @@
+{{ define "main" }}
+<h1 id="title">{{ .Title }}</h1>
+<section id="main">
+  
+  <div>
+  	<img class="kwon" loading="lazy" src="kwon.png" alt="Illustration of the author, a Korean American woman in her 30s with eyeglasses" />
+  	<br />
+
+  </div>
+  
+  <article id="content">
+    {{ .Content }}
+  </article>
+
+  <sidebar>
+  	40° 43' 50.1960" N<br />
+  	73° 56' 6.8712" W
+<!--     Topics I could discuss for 20+ minutes with no preparation:
+  	<ul>
+  		<li><a href="https://oxfordmedicine.com/view/10.1093/med/9780199384075.001.0001/med-9780199384075">50 Studies Every Surgeon Should Know</a>, Oxford University Press, 2017</li>
+  		<li><a href="https://www.theguardian.com/profile/rachel-kwon">The Guardian</a></li>
+  		<li><a href="https://www.imdb.com/name/nm9087310/">IMDb</a></li>
+  		<li></li>
+  	</ul> -->
+  </sidebar>
+  
+  <figure>
+  	<img src="multikwon.jpg" alt="A Photoshopped image of 5 Kwons and one Calla, all wearing various matching sweatsuits, on a grey sectional couch" class="multikwon" />
+  	<figcaption>Kwontuplets</figcaption>
+  </figure>
+
+</section>
+
+{{ end }}

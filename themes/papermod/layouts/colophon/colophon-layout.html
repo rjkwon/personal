@@ -1,0 +1,14 @@
+{{ define "main" }}
+<h1 id="title">{{ .Title }}</h1>
+<section id="main">
+  <div class="blurb">Kwon.nyc is owned, operated, designed, written, edited, maintained, flavored, and (mostly) built by me, Rachel J. Kwon, with help from the below.</div>
+
+  <article id="content">
+    {{ .Content }}
+  </article>
+
+</section>
+
+<div class="sidebar">A note on privacy and data: I don't use cookies or collect any of your data on this site. I don't sell anything or make any money on this site. I do use a cookie-free analytics platform called Plausible to get basic metrics that I use to make the website better.</div>
+
+{{ end }}

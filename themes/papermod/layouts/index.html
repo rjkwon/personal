@@ -1,0 +1,99 @@
+{{- define "main" }}
+
+{{- if not .IsHome | and .Title }}
+<header class="page-header">
+  {{- partial "breadcrumbs.html" . }}
+  <h1>{{ .Title }}</h1>
+  {{- if .Description }}
+  <div class="post-description">
+    {{ .Description }}
+  </div>
+  {{- end }}
+</header>
+{{- end }}
+
+{{- $pages := union .RegularPages .Pages }}
+
+{{- $pages = where site.RegularPages "Type" "notes" }}
+
+
+{{ $term := .Data.Term}}
+{{- range .Pages }}
+
+{{- $class := "post-entry" }}
+
+{{- $user_preferred := or .Site.Params.disableSpecial1stPost .Site.Params.homeInfoParams }}
+
+
+{{ range first 1 .Pages }}
+    <article class="snippet">
+        <div class="post-meta">
+          <h1><a href="{{ .RelPermalink }}">{{ .Title }}</a></h1>{{ .Date.Format "Monday, Jan 2, 2006" }}
+        </div>
+        <div class="post-summary">{{ .Summary }}{{ if .Truncated }}...
+          <p><a href="{{ .RelPermalink }}">Keep reading</a></p>
+      {{ end }}</div>
+    </article>
+  
+{{ end }}
+
+<!-- <div class="articles">
+
+  <article class="{{ $class }}">
+    {{- $isHidden := (.Site.Params.cover.hidden | default .Site.Params.cover.hiddenInList)}}
+    {{- partial "cover.html" (dict "cxt" . "IsHome" true "isHidden" $isHidden) }}
+    <header class="entry-header">
+      <h2>
+        {{ .Title }}
+        {{- if .Draft }}<div class="entry-isdraft"><sup>&nbsp;&nbsp;[draft]</sup></div>{{- end }}
+      </h2>
+    </header>
+    {{- if (ne (.Param "hideSummary") true)}}
+    <section class="entry-content">
+      <p>{{ .Summary | plainify | htmlUnescape }}{{- if .Truncated }}...{{- end -}}</p>
+    </section>
+    {{- end }}
+    {{- if not (.Param "hideMeta") }}
+    <footer class="entry-footer">
+      {{- partial "post_meta.html" . -}}
+    </footer>
+    {{- end }}
+    <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
+  </article>
+</div> -->
+  {{- end }}
+
+
+<div class="sidebar">
+
+  <div class="movies">
+    <h2>📺 Recently viewed</h2>
+  <script language="JavaScript" src="http://feed2js.org//feed2js.php?src=https%3A%2F%2Fletterboxd.com%2Fkwon%2Frss%2F&num=3&desc=1&utf=y"  charset="UTF-8" type="text/javascript"></script>
+
+  <noscript><a href="http://feed2js.org//feed2js.php?src=https%3A%2F%2Fletterboxd.com%2Fkwon%2Frss%2F&num=3&desc=1&utf=y&html=y">More at Letterboxd</a></noscript>
+
+    <div class="more"><a href="https://letterboxd.com/kwon/">More at Letterboxd</a></div>
+  </div>
+
+  <div class="books">
+    <h2>📖 Currently reading </h2>
+<script src="https://www.goodreads.com/review/custom_widget/1829605.Kwon's%20bookshelf:%20currently-reading?cover_position=left&cover_size=medium&num_books=1&order=d&shelf=currently-reading&show_author=1&show_cover=1&show_rating=0&show_review=0&show_tags=0&show_title=1&sort=date_added&widget_bg_color=FFFFFF&widget_bg_transparent=true&widget_border_width=1&widget_id=1620425797&widget_text_color=000000&widget_title_size=medium&widget_width=medium" type="text/javascript" charset="utf-8"></script>
+<br style="clear: all;" />
+   <div class="more"><a href="https://goodreads.com/kwon/">More at Goodreads</a></div>
+  </div>
+ 
+  <div class="pinboard">
+    <h2>Meanwhile, on the internet...</h2>
+    <ul>
+      <script src="assets/js/pinboard.js"></script>
+    </ul>
+     <div class="more"><a href="https://pinboard.in/u:kwon/">More at Pinboard</a></div>
+  </div>   
+
+
+</div>
+
+
+
+
+{{- end }}{{- /* end main */ -}}
