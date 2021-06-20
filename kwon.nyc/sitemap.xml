@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://kwon.nyc/notes/hello-again-world/</loc>
+    <lastmod>2021-06-16T16:46:11-04:00</lastmod>
+  </url><url>
+    <loc>http://kwon.nyc/</loc>
+    <lastmod>2021-06-16T16:46:11-04:00</lastmod>
+  </url><url>
+    <loc>http://kwon.nyc/notes/</loc>
+    <lastmod>2021-06-16T16:46:11-04:00</lastmod>
+  </url><url>
     <loc>http://kwon.nyc/about/</loc>
     <lastmod>2021-03-27T18:07:40-04:00</lastmod>
   </url><url>
@@ -9,12 +18,6 @@
     <lastmod>2021-03-27T18:07:40-04:00</lastmod>
   </url><url>
     <loc>http://kwon.nyc/notes/why-i-quit-medicine/</loc>
-    <lastmod>2016-04-26T22:02:56-04:00</lastmod>
-  </url><url>
-    <loc>http://kwon.nyc/</loc>
-    <lastmod>2016-04-26T22:02:56-04:00</lastmod>
-  </url><url>
-    <loc>http://kwon.nyc/notes/</loc>
     <lastmod>2016-04-26T22:02:56-04:00</lastmod>
   </url><url>
     <loc>http://kwon.nyc/categories/</loc>
