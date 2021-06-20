@@ -1,7 +1,7 @@
 ---
 title: "How Surgical Training Made Me a Better Product Leader"
 date: 2021-06-16T16:46:11-04:00
-draft: false
+draft: true
 ---
 
 Someone recently asked me if working in product (or more broadly, in business) was what I expected when I left surgery. The obvious answer was no -- building useful products for people is different from surgically operating on them (less blood loss, for one. Usually). But it's funny how when two experiences are so vastly different, the similarities become that much more evident. 
