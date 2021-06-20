@@ -22,7 +22,7 @@
 }
 
 ::selection {
-  background: #ff800c;
+  background: var(--orange);
   color: white;
 }
 

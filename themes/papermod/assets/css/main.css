@@ -61,7 +61,20 @@ article.snippet h1 a {
 
 main a:link {
     font-weight: bold;
-    text-decoration: underline;
+}
+
+main a:hover {
+}
+
+main article a {
+    padding: 2px;
+    margin: -2px;
+    text-decoration: none;
+    border-bottom: 1px dotted var(--orange);
+}
+
+main article a:hover {
+    border-bottom: 1px solid var(--orange);
 }
 
 .sidebar a {
@@ -283,8 +296,19 @@ section.notes article {
 }
 
 .post-content {
-    grid-column: 2 / 5;
+    grid-column: 2 / 4;
     grid-row: 1; 
+}
+
+section.footnotes {
+    font-size: 0.9em;
+    color: var(--secondary);
+}
+
+section.footnotes hr {
+    border-top: 1px dotted var(--tertiary);
+    height: 0;
+    margin-top: 8rem;
 }
 
 /* -----------------------------------

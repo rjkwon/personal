@@ -13,3 +13,4 @@ Internet friends and people I like:
 * [Rands](https://randsinrepose.com/)
 * [Jung Yun](https://www.instagram.com/jungyun71/) (and [Maybe](https://www.instagram.com/catauthorphotos/))
 * [Sam Mok](https://boydivision.net/)
+* [Paul Graham](http://www.paulgraham.com/articles.html)

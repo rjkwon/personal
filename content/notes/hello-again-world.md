@@ -1,27 +1,23 @@
 ---
-title: "Hello (again) World"
-date: 2021-03-25T22:46:11-04:00
-draft: true
+title: "How Surgical Training Made Me a Better Product Leader"
+date: 2021-06-16T16:46:11-04:00
+draft: false
 ---
 
-Besides the obvious things like breathing in fresh mountain air, riding my bicycle on a warm spring day, or plunging my hand into a large bag of cool dry white rice, one of the purest, simplest joys I have felt in my life was playing on the internet in my teens and early twenties.
+Someone recently asked me if working in product (or more broadly, in business) was what I expected when I left surgery. The obvious answer was no -- building useful products for people is different from surgically operating on them (less blood loss, for one. Usually). But it's funny how when two experiences are so vastly different, the similarities become that much more evident. 
 
-(Wait. Is the rice thing just me?) 
+(It works the other way, too, when two things are so similar on first glance that the differences come into clearer focus the more you look at them.)
 
-The internet was relatively untouched by commerce in the early days. I would spend hours on the computer and to be honest I don't even remember all of the things I did, but probably around 15 or 16 I discovered weblogs. 
+In three really fundamental ways, surgery and product are actually strikingly similar. I'd hazard a guess that this is bigger than surgery and product and is actually just something generalizable to business and life.
 
-I didn't realize it at the time, but I was a little web designer and front end developer, mocking up designs in an unlocked pirated copy of Adobe Photoshop and writing basic HTML, CSS, and JavaScript in a Windows program called CuteHTML (and uploading the contents of my site using a companion program called CuteFTP). 
+1. Problem solving.
+2. Decisionmaking.
+3. Communication.
 
-It really was cute html, wasn't it? (Hehe.)
+**Problem solving.** First, surgical patients have real problems that can be diagnosed and treated with a surgical approach. I say "surgical approach" because operating isn't always the best solution. But surgeons have the ultimate bias for action, and whatever you do, the impact of your actions is clearly seen. And the reality is, by the time the surgeon is called, we're expected to do something. So we usually do, and even if the patient has a bad outcome, the general feeling is, well, at least we tried something. 
 
-**Things that are different now from how they were then:**
+**Decisionmaking.** In surgery and in product (and business), you have to be able to make quick decisions based on limited information, and act on them. And, they have to be good decisions MOST of the time. 
 
-* .nu domains were popular (and expensive). I don't know why. They just felt exotic.
-* Mobile web and apps didn't exist. Everything was for desktop. (Somehow, even today I still really like a nice, roomy, thoughtfully laid-out desktop website.
-* I didn't have income, which means I used a lot of pirated software...
-* CSS grid didn't exist.
+The exploratory laparotomy is the crown jewel of general surgery. It's a vague name for a surgery that basically implies "we're not sure what's wrong, but we know for sure something's wrong, and it's in the belly, so let's just open 'er up and have a look." 
 
-A lot of the kids I came up with on the internet took a direct path to being designers at Google, product managers at Amazon, starting and exiting their own startups, etc. I left the internet for a few years (from 2010 to now, ish). More about that later.
-
-
-
+One domain that's up for grabs is "influence without authority." At first glance, doctors have a lot of authority, and that's how they influence patient decisionmaking. 

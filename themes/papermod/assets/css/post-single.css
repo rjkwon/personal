@@ -75,7 +75,13 @@
 
 .post-content a,
 .toc a:hover {
-    box-shadow: 0 1px 0
+    /*border-bottom: 1px solid var(--hljs-bg);*/
+    /*box-shadow: 0 1px 0*/
+}
+
+.post-content a:hover {
+    /*background-color: var(--light-on-dark);*/
+    color: var(--orange);
 }
 
 .post-content a code {
@@ -98,7 +104,7 @@
 
 .post-content ol,
 .post-content ul {
-    padding-inline-start: 20px
+    /*padding-inline-start: 20px*/
 }
 
 .post-content li {
