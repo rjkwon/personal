@@ -1,7 +1,7 @@
 ---
 title: "July 1"
 date: 2021-07-01T08:37:20-04:00
-draft: false
+draft: true
 ---
 
 Exactly five years ago today was my last day as a doctor. Sometimes it feels like it was yesterday and other times it feels like it was decades ago. 
