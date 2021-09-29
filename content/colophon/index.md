@@ -3,6 +3,7 @@ title: "Colophon"
 date: 2021-03-27T18:07:40-04:00
 type: colophon
 layout: colophon-layout
+draft: false
 ---
 
 I use [Hugo](https://gohugo.io/) and [DeployHQ](http://deployhq.com/) to generate and deploy the site, respectively, and [Bitbucket](http://bitbucket.org/) to host the source code. Locally, I use [Byword](https://www.bywordapp.com/) to write and edit Markdown files, and [Sublime Text](https://www.sublimetext.com/) to write and edit code. 
