@@ -1,7 +1,7 @@
 ---
 title: "My Post-Med Life"
 date: 2021-09-21T07:48:35-04:00
-draft: false
+draft: true
 ---
 
 If you're pre-med before medical school, are you post-med after?
