@@ -6,6 +6,7 @@
     <description>Recent content in Content on Kwon.nyc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+<<<<<<< HEAD
     <lastBuildDate>Fri, 23 Jul 2021 08:46:45 -0400</lastBuildDate><atom:link href="http://kwon.nyc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Post-Med Life</title>
@@ -17,6 +18,27 @@
 When you&amp;rsquo;re a baby, you pass major milestones every day or every week1. Then, every month or every year. As a working adult, life (and career) seems to happen in chunks of 3–5 years, ish.
 When I was pre-med, I thought my life/career would look like this:
  College, 4 years Medical school, 4 years Residency, 5 years Fellowship, 1-3 years Surgeoning, forever, until I die ← post-med starts here  Instead, what happened was/is this:</description>
+=======
+    <lastBuildDate>Tue, 13 Jul 2021 11:28:34 -0400</lastBuildDate><atom:link href="http://kwon.nyc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Power Moves</title>
+      <link>http://kwon.nyc/notes/power-moves/</link>
+      <pubDate>Tue, 13 Jul 2021 11:28:34 -0400</pubDate>
+      
+      <guid>http://kwon.nyc/notes/power-moves/</guid>
+      <description>Yesterday one of my colleagues in a (virtual) meeting reportedly picked up a canister of coarse sea salt, announced &amp;ldquo;I&amp;rsquo;m just snacking,&amp;rdquo; and proceeded to eat the salt, which confused and maybe frightened the other meeting attendees.
+It reminded me of the time I was rounding with my interns and medical students in the recovery room after scrubbing out of a long case and I was hungry so I pulled an apple out of my white coat pocket, ate most of it, noticed that there weren&amp;rsquo;t any trash cans close by, and so I ate the core and seeds as well and then deposited the stem in the breast pocket of my white coat to discard later.</description>
+    </item>
+    
+    <item>
+      <title>Newyorkiversary</title>
+      <link>http://kwon.nyc/notes/newyorkiversary/</link>
+      <pubDate>Wed, 23 Jun 2021 17:06:37 -0400</pubDate>
+      
+      <guid>http://kwon.nyc/notes/newyorkiversary/</guid>
+      <description>June 2021 marks my eleventh year in New York City. I wasn&amp;rsquo;t supposed to be here this long. The Plan™ was never to stay in New York for this long. The Plan™ was to come here for five years to learn how to be a surgeon, then go back to Chicago and be a surgeon and live happily ever after.
+When I was younger, I didn&amp;rsquo;t think that carefully about my future, which is kind of terrifying to think about now, how I made decisions about my life without really thinking about them.</description>
+>>>>>>> e3909c533e6ac9c8db3f31a7639b1cabc3c889b1
     </item>
     
     <item>
@@ -61,6 +83,17 @@ Ten years ago, I decided to be a doctor. It was a decision that made perfect sen
     </item>
     
     <item>
+      <title></title>
+      <link>http://kwon.nyc/notes/transferrable-skills/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://kwon.nyc/notes/transferrable-skills/</guid>
+      <description>Title: Transferrable skills Tags: Career changing
+&amp;ldquo;I&amp;rsquo;m a [blank], but I want to be a [&amp;lsquo;nother blank]&amp;rdquo;
+ what are transferrable skills The patient with a tension pneumothorax who couldn&amp;rsquo;t breathe and had impending respiratory failure but refused to sign a consent form for me to place a life-saving chest tube? That&amp;rsquo;s getting buy-in from key stakeholders. The time I went to the diner across the street from the hospital to get a box of sugar to sprinkle on a prolapsed rectum in the ER to help reduce it?</description>
+    </item>
+    
+    <item>
       <title>Contact</title>
       <link>http://kwon.nyc/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -77,7 +110,7 @@ Submit  --  </description>
       
       <guid>http://kwon.nyc/links/</guid>
       <description>Internet friends and people I like:
- Leigh Peterson Chris Glass Marianne Max Eric Hu Racquel Rands Jung Yun (and Maybe) Sam Mok Paul Graham  </description>
+ Daniel Bogan / Uses This in Melbourne Leigh Peterson in Hamilton, Ontario Chris Glass in Cincinnati Marianne in Connecticut Max in Brooklyn Eric Hu in Brooklyn Racquel in Brooklyn Rands in Los Gatos, CA Jung Yun (and Maybe) in Baltimore Sam Mok in Toronto Paul Graham in England  </description>
     </item>
     
   </channel>

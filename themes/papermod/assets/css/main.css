@@ -47,6 +47,10 @@ article.snippet div.post-summary {
     grid-row: 1; 
 }
 
+article.snippet div.post-meta {
+    font-size: 14px;
+}
+
 article.snippet p {
     /*text-align: right;*/
 }
@@ -66,14 +70,14 @@ main a:link {
 main a:hover {
 }
 
-main article a {
+main article p a {
     padding: 2px;
     margin: -2px;
     text-decoration: none;
     border-bottom: 1px dotted var(--orange);
 }
 
-main article a:hover {
+main article p a:hover {
     border-bottom: 1px solid var(--orange);
 }
 
@@ -124,7 +128,7 @@ MOVIES, BOOKS, PINBOARD
 .pinboard ul {
     background-color: var(--highlight);
     padding: 1.5em;
-    margin: 0 -1.5em;
+    margin: 0 -0.5em;
     border-radius: 10px;
     -webkit-transition: background-position .1s;
     transition: background-position .1s;

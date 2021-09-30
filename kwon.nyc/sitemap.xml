@@ -2,6 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+<<<<<<< HEAD
     <loc>http://kwon.nyc/notes/</loc>
     <lastmod>2021-09-24T08:46:45-04:00</lastmod>
   </url><url>
@@ -11,6 +12,14 @@
     <loc>http://kwon.nyc/</loc>
     <lastmod>2021-07-23T08:46:45-04:00</lastmod>
   </url><url>
+=======
+    <loc>http://kwon.nyc/</loc>
+    <lastmod>2021-07-13T11:28:34-04:00</lastmod>
+  </url><url>
+    <loc>http://kwon.nyc/notes/</loc>
+    <lastmod>2021-07-13T11:28:34-04:00</lastmod>
+  </url><url>
+>>>>>>> e3909c533e6ac9c8db3f31a7639b1cabc3c889b1
     <loc>http://kwon.nyc/notes/power-moves/</loc>
     <lastmod>2021-07-13T11:28:34-04:00</lastmod>
   </url><url>
@@ -25,6 +34,8 @@
   </url><url>
     <loc>http://kwon.nyc/notes/why-i-quit-medicine/</loc>
     <lastmod>2016-04-26T22:02:56-04:00</lastmod>
+  </url><url>
+    <loc>http://kwon.nyc/notes/transferrable-skills/</loc>
   </url><url>
     <loc>http://kwon.nyc/categories/</loc>
   </url><url>
