@@ -63,14 +63,14 @@ article.snippet h1 a {
     text-decoration: none;
 }
 
-main a:link {
+main div.sidebar a:link {
     font-weight: bold;
 }
 
 main a:hover {
 }
 
-main article p a {
+main article a {
     padding: 2px;
     margin: -2px;
     text-decoration: none;
@@ -277,6 +277,12 @@ PAGES: COLOPHON
     display: block;
     font-size: 0.8em;
 }
+
+/* -----------------------------------
+PAGES: NOW
+----------------------------------- */
+
+
 
 /* -----------------------------------
 PAGES: NOTES - SINGLE

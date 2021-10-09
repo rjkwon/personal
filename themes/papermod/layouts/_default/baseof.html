@@ -18,6 +18,10 @@
 {{- print " colophon" }}
 {{- end -}}
 
+{{- if eq $.Layout `now-layout` -}}
+{{- print " now" }}
+{{- end -}}
+
 {{- if (or (ne .Kind `page` ) (eq .Layout `archives`) (eq .Layout `search`)) -}}
 {{- print " list" -}}
 {{- end -}}

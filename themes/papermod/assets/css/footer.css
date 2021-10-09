@@ -81,7 +81,7 @@ FOOTER - MOBILE
     padding: 12px;
     font-size: 26px;
     line-height: 26px;
-    border-radius: 64px;
+    border-radius: 10px;
     transition: visibility .5s, opacity .8s linear
 }
 

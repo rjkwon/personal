@@ -13,6 +13,8 @@ In 2016, <a href="https://www.theguardian.com/commentisfree/2016/jun/15/i-quit-m
 These days, I work in digital health, which is really cool, mostly because I get to solve the problems I saw firsthand taking care of patients except at scale. 
 
 <!-- I have removed 122 gallbladders. "Why is that relevant?" you ask. First of all, I don't like your tone. Second of all, good question. It's not. Except sometimes when I get annoyed by someone on the street, I think to myself, "Well, at least I've probably taken out more gallbladders than they have." It is also listed as a fun fact on my <a href="https://www.imdb.com/name/nm9087310/">IMDb page</a>. -->
+
+[Here's what I'm doing / feeling / thinking now(ish).](/now)
 <!-- 
 {{< figure src="multikwon.jpg" caption="Kwontuplets (and Calla) at home in Tribeca" alt="A Photoshopped image of 5 Kwons and one Calla, all wearing various matching sweatsuits, on a grey sectional couch" class="multikwon" >}} -->
 
