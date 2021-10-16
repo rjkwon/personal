@@ -12,6 +12,6 @@ The incredibly detailed [illustration](../about/kwon.png) of my visage was done 
 
 I don't really use design software to design websites, but I probably should. It's just that every time I try, I find myself gravitating back towards designing in the browser. 
 
-The typeface I'm using is [Overpass Mono](https://fonts.google.com/specimen/Overpass+Mono?query=overpass). I've kinda been in a monospace mood lately.
+Typefaces I'm using are [New Spirit](https://fonts.adobe.com/fonts/new-spirit) for headlines and the [Apple system font](https://developer.apple.com/design/human-interface-guidelines/macos/visual-design/typography/) (currently San Francisco, I guess) for everything else.
 
 
