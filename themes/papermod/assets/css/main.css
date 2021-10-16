@@ -231,21 +231,28 @@ div.headline {
 }
 
 /* images in articles */
-body.about section#main figure {
+body.about section#main figure,
+body div.post-content figure {
     padding: 5em 0;
     grid-column: 1 / 5;
     grid-row: 2;
 }
 
-body.about section#main figure img {
+body.about section#main figure img,
+body div.post-content figure img {
     width: 100% !important;
 }
 
-body.about section#main figcaption {
+body.about section#main figcaption,
+body div.post-content figcaption  {
     color: var(--secondary);
     text-align: center;
     font-size: 0.8em;
-    padding-top: 0.3em;
+    /*padding-top: 0.3em;*/
+}
+
+figure.border-dotted img {
+    border: 1px dotted grey;
 }
 
 /* -----------------------------------
