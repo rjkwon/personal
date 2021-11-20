@@ -184,7 +184,7 @@ div.headline {
 }
 
 /* mobile view */
-@media (max-width: 375px) {
+@media (max-width: 415px) {
     div.headline {
         font-size: 1.2em;
     }
@@ -219,7 +219,7 @@ div.headline {
 }
 
 /* mobile view */
-@media (max-width: 375px) {
+@media (max-width: 415px) {
     .about section,
     .colophon article,
     article.post-single {
@@ -339,7 +339,7 @@ body.list section.notes article span a {
 }
 
 /* notes list - mobile */
-@media (max-width: 375px) {
+@media (max-width: 415px) {
     body.list section.notes article span a { 
         font-size: 1.8em;
         line-height: 1.4;

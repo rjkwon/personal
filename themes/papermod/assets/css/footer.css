@@ -28,7 +28,7 @@ FOOTER
 /* -----------------------------------
 FOOTER - MOBILE
 ----------------------------------- */
-@media (max-width: 375px) {
+@media (max-width: 415px) {
     .footer { 
         grid-template-columns: repeat(2, 1fr) !important;
         grid-row-gap: 1rem;
