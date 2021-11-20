@@ -20,4 +20,4 @@ These days, I work in digital health, which is really cool, mostly because I get
 
 **Professional version:**
 
-Rachel Kwon is a product leader, writer, and a surgeon by training. She currently works as Director of Clinical Product Strategy at Ro, a direct-to-consumer digital health startup. Rachel co-edited and authored _50 Studies Every Surgeon Should Know_ (Oxford University Press) and was a clinical research fellow at the University of Oxford. She lives in Manhattan.
+Rachel Kwon is a product leader, writer, and a surgeon by training. She currently works as Director of Clinical Product Strategy at Ro, a direct-to-consumer digital health startup. Rachel co-edited and authored _50 Studies Every Surgeon Should Know_ (Oxford University Press) and was a clinical research fellow at the University of Oxford. She lives in Brooklyn.
