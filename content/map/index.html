@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Map &bull; Kwon.nyc</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="style.css" />
+    <script src="https://api.tiles.mapbox.com/mapbox-gl-js/v2.6.0/mapbox-gl.js"></script>
+    <link rel="stylesheet" href="https://api.tiles.mapbox.com/mapbox-gl-js/v2.6.0/mapbox-gl.css" />
+    
+    <style>
+      body {
+        margin: 0;
+        padding: 0;
+      }
+      #map {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        width: 100%;
+      }
+      
+.marker {
+    /*background-image: url('vino.png');
+    background-size: cover;*/
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.mapboxgl-popup {
+    max-width: 300px;
+    background-color: red;
+}
+
+.mapboxgl-popup-content {
+    text-align: center;
+}
+
+img {
+    width: 200px;
+}
+    </style>
+  </head>
+  <body>
+    <div id="map"></div>
+    <script src="main.js"></script>
+  </body>
+</html>

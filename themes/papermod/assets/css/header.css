@@ -21,6 +21,11 @@
     font-size: 17px;
 }
 
+.logo img { /* 권 logo */
+    width: 2.5em;
+    padding-right: 0.4em;
+}
+
 #theme-toggle svg {
     /*height: 18px;*/
 }

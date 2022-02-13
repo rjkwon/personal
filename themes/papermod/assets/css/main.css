@@ -328,6 +328,10 @@ section.footnotes hr {
     margin-top: 8rem;
 }
 
+figure.full img {
+    width: 20%;
+}
+
 /* -----------------------------------
 PAGES: NOTES - LIST
 ----------------------------------- */

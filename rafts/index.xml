@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Content on Kwon.nyc</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Content on Kwon.nyc</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 23 Jul 2021 08:46:45 -0400</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Setup</title>
+      <link>http://localhost:1313/notes/setup/</link>
+      <pubDate>Sun, 13 Feb 2022 09:07:52 -0500</pubDate>
+      
+      <guid>http://localhost:1313/notes/setup/</guid>
+      <description>One of the top priorities when moving to Brooklyn was to have more space, particularly to have dedicated workspace. In our previous apartment, my office was a corner of the bedroom, which I was grateful to have, but also over time resentful. I love my work and my job (probably a litle too much), but seeing my workspace as the first thing upon waking and the last before sleep made it hard for my brain to rest.</description>
+    </item>
+    
+    <item>
+      <title>Bicycle Storycle (Bike Story)</title>
+      <link>http://localhost:1313/notes/bike-story/</link>
+      <pubDate>Mon, 11 Oct 2021 09:23:09 -0400</pubDate>
+      
+      <guid>http://localhost:1313/notes/bike-story/</guid>
+      <description>TL;DR I made a new page: kwon.nyc/bike
+In January 2010 I was in my final year of medical school and had some rare free time for several weeks on a light rotation. My Local Bike Shop™ was offering classes on how to build a bike, so I enrolled and learned a lot about bike parts and bike maintenance. (Oddly enough, we didn&amp;rsquo;t actually build bikes.) Over the next few years I started building up a track bike, slowly amassing parts from my travels, getting the naked frame painted and framesaved, et cetera.</description>
+    </item>
+    
+    <item>
+      <title>Power Moves</title>
+      <link>http://localhost:1313/notes/power-moves/</link>
+      <pubDate>Tue, 13 Jul 2021 11:28:34 -0400</pubDate>
+      
+      <guid>http://localhost:1313/notes/power-moves/</guid>
+      <description>Yesterday one of my colleagues in a (virtual) meeting reportedly picked up a canister of coarse sea salt, announced &amp;ldquo;I&amp;rsquo;m just snacking,&amp;rdquo; and proceeded to eat the salt, which confused and maybe frightened the other meeting attendees.
+It reminded me of the time I was rounding with my interns and medical students in the recovery room after scrubbing out of a long case and I was hungry so I pulled an apple out of my white coat pocket, ate most of it, noticed that there weren&amp;rsquo;t any trash cans close by, and so I ate the core and seeds as well and then deposited the stem in the breast pocket of my white coat to discard later.</description>
+    </item>
+    
+    <item>
+      <title>Newyorkiversary</title>
+      <link>http://localhost:1313/notes/newyorkiversary/</link>
+      <pubDate>Wed, 23 Jun 2021 17:06:37 -0400</pubDate>
+      
+      <guid>http://localhost:1313/notes/newyorkiversary/</guid>
+      <description>June 2021 marks my eleventh year in New York City. I wasn&amp;rsquo;t supposed to be here this long. The Plan™ was never to stay in New York for this long. The Plan™ was to come here for five years to learn how to be a surgeon, then go back to Chicago and be a surgeon and live happily ever after.
+When I was younger, I didn&amp;rsquo;t think that carefully about my future, which is kind of terrifying to think about now, how I made decisions about my life without really thinking about them.</description>
+    </item>
+    
+    <item>
+      <title>Colophon</title>
+      <link>http://localhost:1313/colophon/</link>
+      <pubDate>Sat, 27 Mar 2021 18:07:40 -0400</pubDate>
+      
+      <guid>http://localhost:1313/colophon/</guid>
+      <description>I use Hugo and DeployHQ to generate and deploy the site, respectively, and Bitbucket to host the source code. Locally, I use Byword to write and edit Markdown files, and Sublime Text to write and edit code.
+The incredibly detailed illustration of my visage was done by my friend Leigh Peterson, who also taught me how to bathe a cat. (Those were two separate favors.)
+I don&amp;rsquo;t really use design software to design websites, but I probably should.</description>
+    </item>
+    
+    <item>
+      <title>Goodbye and Hello</title>
+      <link>http://localhost:1313/notes/why-i-quit-medicine/</link>
+      <pubDate>Tue, 26 Apr 2016 22:02:56 -0400</pubDate>
+      
+      <guid>http://localhost:1313/notes/why-i-quit-medicine/</guid>
+      <description>As some of you have heard, I recently resigned from surgical residency, and am leaving clinical medicine.
+Ten years ago, I decided to be a doctor. It was a decision that made perfect sense at the time: I wanted to help people who were suffering, and I was fortunate to have the ability and resources to gain entry into medical school. I wasn&amp;rsquo;t sure which specialty would be my calling, but shortly after starting my clinical rotations I fell in love with surgery.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/notes/transferrable-skills/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/notes/transferrable-skills/</guid>
+      <description>Title: Transferrable skills Tags: Career changing
+&amp;ldquo;I&amp;rsquo;m a [blank], but I want to be a [&amp;lsquo;nother blank]&amp;rdquo;
+ what are transferrable skills The patient with a tension pneumothorax who couldn&amp;rsquo;t breathe and had impending respiratory failure but refused to sign a consent form for me to place a life-saving chest tube? That&amp;rsquo;s getting buy-in from key stakeholders. The time I went to the diner across the street from the hospital to get a box of sugar to sprinkle on a prolapsed rectum in the ER to help reduce it?</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/contact/</guid>
+      <description>Send me a message at rachel.kwon at gmail.com
+Submit  --  </description>
+    </item>
+    
+    <item>
+      <title>Links</title>
+      <link>http://localhost:1313/links/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/links/</guid>
+      <description>Internet friends and people I like:
+ Daniel Bogan / Uses This in Melbourne Leigh Peterson in Hamilton, Ontario Chris Glass in Cincinnati Marianne in Connecticut Max in Brooklyn Eric Hu in Brooklyn Racquel in Brooklyn Rands in Los Gatos, CA Jung Yun (and Maybe) in Baltimore Sam Mok in Toronto Paul Graham in England  </description>
+    </item>
+    
+  </channel>
+</rss>

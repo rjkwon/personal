@@ -1,0 +1,33 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+#map {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+
+.marker {
+    background-image: url('vino.png');
+    background-size: cover;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.mapboxgl-popup {
+    max-width: 300px;
+    background-color: red;
+}
+
+.mapboxgl-popup-content {
+    text-align: center;
+}
+
+img {
+    width: 200px;
+}

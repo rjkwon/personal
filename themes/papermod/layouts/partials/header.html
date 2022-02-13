@@ -80,6 +80,7 @@
 <header class="header">
     <nav class="nav">
         <div class="logo">
+            <img src="/assets/images/logo.svg" alt="권" /> 
             {{ block "title" . }}
             <a href="{{ "" | absLangURL }}" title="{{ .Title | default .Name }}">{{ .Site.Title }}</a>
             {{ end }}
