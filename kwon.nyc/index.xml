@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 23 Jul 2021 08:46:45 -0400</lastBuildDate><atom:link href="http://kwon.nyc/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Setup</title>
+      <link>http://kwon.nyc/notes/setup/</link>
+      <pubDate>Sun, 13 Feb 2022 09:07:52 -0500</pubDate>
+      
+      <guid>http://kwon.nyc/notes/setup/</guid>
+      <description>One of the top priorities when moving to Brooklyn was to have more space, particularly to have dedicated workspace. In our previous apartment, my office was a corner of the bedroom, which I was grateful to have, but also over time resentful. I love my work and my job (probably a litle too much), but seeing my workspace as the first thing upon waking and the last before sleep made it hard for my brain to rest.</description>
+    </item>
+    
+    <item>
       <title>Bicycle Storycle (Bike Story)</title>
       <link>http://kwon.nyc/notes/bike-story/</link>
       <pubDate>Mon, 11 Oct 2021 09:23:09 -0400</pubDate>
@@ -15,15 +24,6 @@
       <guid>http://kwon.nyc/notes/bike-story/</guid>
       <description>TL;DR I made a new page: kwon.nyc/bike
 In January 2010 I was in my final year of medical school and had some rare free time for several weeks on a light rotation. My Local Bike Shop™ was offering classes on how to build a bike, so I enrolled and learned a lot about bike parts and bike maintenance. (Oddly enough, we didn&amp;rsquo;t actually build bikes.) Over the next few years I started building up a track bike, slowly amassing parts from my travels, getting the naked frame painted and framesaved, et cetera.</description>
-    </item>
-    
-    <item>
-      <title>Now</title>
-      <link>http://kwon.nyc/now/</link>
-      <pubDate>Sat, 09 Oct 2021 11:03:20 -0400</pubDate>
-      
-      <guid>http://kwon.nyc/now/</guid>
-      <description>Excited about moving (back) to Brooklyn A little anxious about moving Thinking about my relationship and what it means to commit to working on it every day Having too much fun working on this website—my latest epiphany was understanding the difference between index.md and _index.md, largely thanks to this post on the Hugo forum Proud of the lion&amp;rsquo;s head meatballs, 狮子头, I made for dinner last night. I looked at a few recipes (Omnivore&amp;rsquo;s Cookbook, Woks of Life, and Red House Spice) for inspiration and then as usual just kind of ended up doing my own thing.</description>
     </item>
     
     <item>

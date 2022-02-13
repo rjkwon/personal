@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://kwon.nyc/notes/setup/</loc>
+    <lastmod>2022-02-13T09:07:52-05:00</lastmod>
+  </url><url>
     <loc>http://kwon.nyc/notes/bike-story/</loc>
     <lastmod>2021-10-11T09:23:09-04:00</lastmod>
-  </url><url>
-    <loc>http://kwon.nyc/now/</loc>
-    <lastmod>2021-10-09T11:03:20-04:00</lastmod>
   </url><url>
     <loc>http://kwon.nyc/notes/</loc>
     <lastmod>2021-09-24T08:46:45-04:00</lastmod>
