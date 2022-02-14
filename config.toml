@@ -1,4 +1,4 @@
-baseURL = "http://kwon.nyc/"
+baseURL = "https://kwon.nyc/"
 languageCode = "en-us"
 title = "Kwon.nyc"
 theme = "papermod"
