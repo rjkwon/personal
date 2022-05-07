@@ -8,6 +8,17 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 23 Jul 2021 08:46:45 -0400</lastBuildDate><atom:link href="https://kwon.nyc/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Now</title>
+      <link>https://kwon.nyc/now/</link>
+      <pubDate>Fri, 06 May 2022 16:06:41 +0000</pubDate>
+      
+      <guid>https://kwon.nyc/now/</guid>
+      <description>Just got back from two weeks of vacation, the longest consecutive time I&amp;rsquo;ve taken off fully (no email, no Slack) since 2016, when I took three months off after leaving residency.
+Trying to embrace New York spring, which as usual can&amp;rsquo;t decide whether it wants to be beautiful and sunny or cold and gloomy (today is the latter).
+Prepping for Asian American Pacific Islander Heritage Month events at work and socially, and reflecting on my own Korean American identity.</description>
+    </item>
+    
+    <item>
       <title>Hon. Ketanji Brown Jackson&#39;s husband&#39;s socks</title>
       <link>https://kwon.nyc/notes/socks/</link>
       <pubDate>Thu, 24 Mar 2022 08:58:02 -0400</pubDate>
@@ -48,15 +59,6 @@ Lack of focus has been one of the most pronounced negative effects. For example,
       <guid>https://kwon.nyc/notes/bike-story/</guid>
       <description>TL;DR I made a new page: kwon.nyc/bike
 In January 2010 I was in my final year of medical school and had some rare free time for several weeks on a light rotation. My Local Bike Shop™ was offering classes on how to build a bike, so I enrolled and learned a lot about bike parts and bike maintenance. (Oddly enough, we didn&amp;rsquo;t actually build bikes.) Over the next few years I started building up a track bike, slowly amassing parts from my travels, getting the naked frame painted and framesaved, et cetera.</description>
-    </item>
-    
-    <item>
-      <title>Now</title>
-      <link>https://kwon.nyc/now/</link>
-      <pubDate>Sat, 09 Oct 2021 11:03:20 -0400</pubDate>
-      
-      <guid>https://kwon.nyc/now/</guid>
-      <description>Excited about moving (back) to Brooklyn A little anxious about moving Thinking about my relationship and what it means to commit to working on it every day Having too much fun working on this website—my latest epiphany was understanding the difference between index.md and _index.md, largely thanks to this post on the Hugo forum Proud of the lion&amp;rsquo;s head meatballs, 狮子头, I made for dinner last night. I looked at a few recipes (Omnivore&amp;rsquo;s Cookbook, Woks of Life, and Red House Spice) for inspiration and then as usual just kind of ended up doing my own thing.</description>
     </item>
     
     <item>
