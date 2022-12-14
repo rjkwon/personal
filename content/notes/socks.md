@@ -14,7 +14,7 @@ No, not the husband. The SOCK:
 
 I'm not quite sure what the design is (looks like some kind of illustration of a face), but what I do know is that it is a funky sock. Why is he wearing a funky sock?!
 
-On further research (googling "Ketanji Brown Jackon husband"), I discover he is a surgeon.
+On further research (googling "Ketanji Brown Jackson husband"), I discover he is a surgeon.
 
 Ahh, now it makes sense.
 
