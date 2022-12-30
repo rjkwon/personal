@@ -17,7 +17,7 @@ Here's where I spent my time in 2022.
 
 # Time
 
-These are arbitrary buckets that are neither mututally exclusive nor collectively exhaustive, but here's how I segmented this section (other than #3, I excluded time spent working, mostly for simplicity and also because I think that's a totally separate exercise):
+These are arbitrary buckets that are neither mutually exclusive nor collectively exhaustive, but here's how I segmented this section (other than #3, I excluded time spent working, mostly for simplicity and also because I think that's a totally separate exercise):
 
 1. Travel/vacation
 2. Shows and events
