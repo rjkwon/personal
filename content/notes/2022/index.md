@@ -5,6 +5,8 @@ draft: false
 tag: end-of-year
 ---
 
+_Note: if you have published a similar 2022 in review on your site, I would love to see it! You can email me a link at kwon(at)fastmail(dot)com._
+
 How did 2022 go? All things told, it was... a year. In reflecting on how to reflect on this past year (I'm not sure if you've noticed, but I am an overthinker, particularly when it comes to writing things here), I had trouble relying on recall for notable events and accomplishments. As part of a separate personal exercise to work towards defining what my (aspirational) principles are, I realized that no matter what I _claim_ I value, the cold hard truth lies in where and how I spend my resources: time, money, and energy. 
 
 Energy is hard to quantify and track, but time and money are more easily auditable, so I set out to review my calendars, photos, tracking apps, and bank accounts, and comb the data to understand where I was spending my time and money and how I felt about it. It was interesting to see how much I'd actually forgotten and put myself back in the place when I was deciding to go to that event or buy that thing or read that book. 
