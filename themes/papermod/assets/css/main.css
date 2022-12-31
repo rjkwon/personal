@@ -313,7 +313,7 @@ section.notes article {
 }
 
 .post-content {
-    grid-column: 2 / 4;
+    grid-column: 2 / 5;
     grid-row: 1; 
 }
 
@@ -324,8 +324,12 @@ section.footnotes {
 
 section.footnotes hr {
     border-top: 1px dotted var(--tertiary);
+    border-bottom: 0;
+    border-left: 0;
+    border-right: 0;
     height: 0;
-    margin-top: 8rem;
+    margin: 8rem 0 2rem;
+    width: 100%;
 }
 
 figure.full img {

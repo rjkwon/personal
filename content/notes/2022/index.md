@@ -112,5 +112,7 @@ Some other notable or memorable things in my life from this year:
 
 Okay, this year in review is getting to be QUITE long (I'm told the "year in review" should not actually take the full year to write/read) not to mention I have wandered into equine memory territory, so I will put a 📌 in this for now and conclude the "where did my time go in 2022" audit and pick back up tomorrow with results and insights from my "where did my money go in 2022" audit. It may or may not include a doughnut chart!
 
+_Edited to add: [Here's the second part](https://kwon.nyc/notes/2022-part-2/)._ 🍩
+
 [^1]: Mostly from nostalgia for the original movies
 [^2]: I was always a huge Buffy fan but never got into Angel when it was on when I was a teenager, but now I feel like I appreciate the darker tone
