@@ -1,6 +1,6 @@
 ---
 title: "Now"
-date: 2022-02-04T07:03:20-04:00
+date: 2023-02-04T07:03:20-04:00
 draft: false
 layout: now-layout
 ---
