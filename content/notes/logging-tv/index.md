@@ -32,7 +32,7 @@ For now, I've been tracking my TV watching in a [Google spreadsheet](https://doc
 
 This whole note was a very long and navel-gazey way to say "here's a spreadsheet," eh?
 
-Somewhat related: my note on [reading, re-reading, and tracking reads](http://localhost:1313/notes/re-re-reading/)
+Somewhat related: my note on [reading, re-reading, and tracking reads](http://kwon.nyc/notes/re-re-reading/)
 
 [^1]: I use [Letterboxd](https://letterboxd.com/kwon/) for movies, which I adore, [Literal.club](https://literal.club/kwon) for books, which is fine for my needs for now, and [Last.fm](https://www.last.fm/user/rjkwon) for music, which I've been meaning to divest from given that it now sits under a ginormous media conglomerate, but downloading my data and closing my account just never makes it to the top of my mental TODO list.
 [^2]: Last.fm _did_ exist at that time, as Audioscrobbler.
