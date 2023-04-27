@@ -8,6 +8,16 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 23 Jul 2021 08:46:45 -0400</lastBuildDate><atom:link href="https://kwon.nyc/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Lo-fi changelog</title>
+      <link>https://kwon.nyc/notes/lo-fi-changelog/</link>
+      <pubDate>Thu, 27 Apr 2023 07:38:45 -0400</pubDate>
+      
+      <guid>https://kwon.nyc/notes/lo-fi-changelog/</guid>
+      <description>I made a changelog.
+This was a fun little morning project for me. I&amp;rsquo;ve seen others do a thing where the changelog is simply a list of all commit messages in reverse chronological order, so I decided to try it. With any &amp;ldquo;small&amp;rdquo; coding project, I find that I generally grossly underestimate the time it will take to accomplish a seemingly simple thing, but I learn a lot and also have fun with all the side quests.</description>
+    </item>
+    
+    <item>
       <title>Logging TV</title>
       <link>https://kwon.nyc/notes/logging-tv/</link>
       <pubDate>Sat, 22 Apr 2023 07:54:17 -0400</pubDate>
@@ -283,9 +293,8 @@ When I was younger, I didn&amp;rsquo;t think that carefully about my future, whi
       <pubDate>Sat, 27 Mar 2021 18:07:40 -0400</pubDate>
       
       <guid>https://kwon.nyc/colophon/</guid>
-      <description>I use Hugo and DeployHQ to generate and deploy the site, respectively, and Github to host the source code. Locally, I use Byword to write and edit Markdown files, and Sublime Text to write and edit code.
-The incredibly detailed illustration of my visage was done by my friend Leigh Peterson, who also taught me how to bathe a cat. (Those were two separate favors.)
-I don&amp;rsquo;t really use design software to design websites, but I probably should.</description>
+      <description>I use Hugo and DeployHQ to generate and deploy the site, respectively, and Github to host the source code (changelog here). Locally, I use Sublime Text to write and edit code, as well as Markdown files which constitute the content. (More gear and tech here.)
+This cool illustration of my visage was done by my friend Leigh Peterson, who also taught me how to bathe a cat. (Those were two separate favors.</description>
     </item>
     
     <item>
