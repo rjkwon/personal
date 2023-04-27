@@ -1,3 +1,7 @@
+* 2023-04-27 rebuild site
+* 2023-04-27 add new note: lo-fi-changelog
+* 2023-04-27 update colophon
+* 2023-04-26 add line breaks to CHANGELOG.md
 * 2023-04-26 add CHANGELOG.md
 * 2023-04-22 fixed broken link in notes/logging-tv (thanks amory)
 * 2023-04-22 added new note
