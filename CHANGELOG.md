@@ -1,3 +1,5 @@
+* 2023-05-16 add new note
+* 2023-04-27 update CHANGELOG.md
 * 2023-04-27 rebuild site
 * 2023-04-27 add new note: lo-fi-changelog
 * 2023-04-27 update colophon
