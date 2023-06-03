@@ -1,3 +1,4 @@
+* 2023-05-23 add new note
 * 2023-05-16 add new note
 * 2023-04-27 update CHANGELOG.md
 * 2023-04-27 rebuild site
