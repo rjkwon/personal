@@ -218,6 +218,12 @@ div.headline {
     grid-row: 1;
 }
 
+.about ul {
+    list-style-type: "→ ";
+    padding-left: 1em;
+/*    margin-left: 0;*/
+}
+
 /* mobile view */
 @media (max-width: 415px) {
     .about section,
