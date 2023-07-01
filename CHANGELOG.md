@@ -1,3 +1,5 @@
+* 2023-06-30 edit about page (minor)
+* 2023-06-03 fix typo in notes/in-between-moments/index.md
 * 2023-05-23 add new note
 * 2023-05-16 add new note
 * 2023-04-27 update CHANGELOG.md
