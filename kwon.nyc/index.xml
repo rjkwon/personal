@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 23 Jul 2021 08:46:45 -0400</lastBuildDate><atom:link href="https://kwon.nyc/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Artificially Intelligent Thoughts</title>
+      <link>https://kwon.nyc/notes/artificially-intelligent-thoughts/</link>
+      <pubDate>Mon, 17 Jul 2023 20:07:23 -0400</pubDate>
+      
+      <guid>https://kwon.nyc/notes/artificially-intelligent-thoughts/</guid>
+      <description>I am reading and hearing a lot of discourse about AI, machine learning, and more specifically, ChatGPT. It seems like a lot of people have a lot of opinions and things to say, and, like ChatGPT itself, they seem to be often wrong but never in doubt1. From what I can tell it seems like a lot of it is noise (generally when people make blanket statements about AI being bad and dangerous) but there is some real signal (generally when people use more precise verbiage, detailed use cases, and less sensationalized/more nuanced thoughts and conclusions such as potential for bias at a large scale with large language models and generative AI causing harm2).</description>
+    </item>
+    
+    <item>
       <title>Optimize</title>
       <link>https://kwon.nyc/notes/optimize/</link>
       <pubDate>Fri, 30 Jun 2023 23:06:33 -0400</pubDate>
