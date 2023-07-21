@@ -8,6 +8,16 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 23 Jul 2021 08:46:45 -0400</lastBuildDate><atom:link href="https://kwon.nyc/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Pushing Pixels</title>
+      <link>https://kwon.nyc/notes/pushing-pixels/</link>
+      <pubDate>Fri, 21 Jul 2023 07:46:59 -0400</pubDate>
+      
+      <guid>https://kwon.nyc/notes/pushing-pixels/</guid>
+      <description>I made some minor CSS tweaks on mostly spacing here that have bothered me since the beginning (though not enough to get me to fix them until now, hehe).
+This is extreme minutiae and probably doesn&amp;rsquo;t even warrant a note here but I did spend over an hour working on this so I feel like I have to document it. (I woke up at 5 am and couldn&amp;rsquo;t sleep so I journaled and internetted for a while before deciding to fire up the old cascading stylesheet.</description>
+    </item>
+    
+    <item>
       <title>Artificially Intelligent Thoughts</title>
       <link>https://kwon.nyc/notes/artificially-intelligent-thoughts/</link>
       <pubDate>Mon, 17 Jul 2023 20:07:23 -0400</pubDate>
