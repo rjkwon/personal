@@ -47,12 +47,9 @@ article.snippet div.post-summary {
     grid-row: 1; 
 }
 
-article.snippet div.post-meta {
+article.snippet div.post-meta { /* post date */
     font-size: 14px;
-}
-
-article.snippet p {
-    /*text-align: right;*/
+    padding: 0.5em 0 1em;
 }
 
 article.snippet h1 {

@@ -59,7 +59,7 @@ body {
     line-height: 1.6;
     letter-spacing: 0.02em;
     word-break: break-word;
-    background: var(--theme)
+    background: var(--theme);
 }
 
 article,
@@ -78,6 +78,10 @@ table {
 
 ul#menu {
     padding: 0
+}
+
+header.header {
+    padding-top: 0.5em;
 }
 
 a {
@@ -125,6 +129,15 @@ textarea:-webkit-autofill {
 img {
     display: block;
     max-width: 100%
+}
+
+sup { /* footnotes superscript */
+    font-size: 0.7em;
+}
+
+sup a{
+    color: red;
+    border: none !important;
 }
 
 ::-webkit-scrollbar-track {
