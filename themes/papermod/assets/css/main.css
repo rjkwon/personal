@@ -122,7 +122,8 @@ MOVIES, BOOKS, PINBOARD
     /*float: right;*/
 }
 
-.pinboard ul {
+.pinboard ul, 
+.pinboard ul.rss-items {
     background-color: var(--highlight);
     padding: 1.5em;
     margin: 0 -0.5em;
@@ -140,15 +141,24 @@ MOVIES, BOOKS, PINBOARD
     -moz-column-gap: 1em;
 }
 
-.pinboard li {
+p.rss-title {
+    display: none;
+}
+
+.pinboard li,
+.pinboard li.rss-item {
     list-style-type: none;
     margin-bottom: 1.5em;
     line-height: 160%;
     padding-right: 2em;
-    /*background-color: red;*/
 }
 
-.pinboard li a {
+.pinboard li.rss-item br {
+    display: none;
+}
+
+.pinboard li a,
+.pinboard li.rss-item a {
     display: block;
     margin-bottom: 0.5em;
     font-weight: bold;

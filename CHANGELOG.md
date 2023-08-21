@@ -1,3 +1,9 @@
+* 2023-07-21 add new note
+* 2023-07-21 minor css tweaks
+* 2023-07-17 add new note: 'artifically intelligent thoughts'
+* 2023-07-17 add new note
+* 2023-07-01 rebuild site
+* 2023-07-01 add new note
 * 2023-06-30 edit about page (minor)
 * 2023-06-03 fix typo in notes/in-between-moments/index.md
 * 2023-05-23 add new note
