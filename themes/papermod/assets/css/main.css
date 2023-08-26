@@ -235,7 +235,8 @@ div.headline {
 @media (max-width: 415px) {
     .about section,
     .colophon article,
-    article.post-single {
+    article.post-single,
+    .pinboard ul {
         display: block !important;
         columns: 1 !important;
         -webkit-columns: 1 !important;
