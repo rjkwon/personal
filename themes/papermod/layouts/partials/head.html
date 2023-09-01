@@ -1,11 +1,6 @@
 <meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-{{- if hugo.IsProduction | or (eq .Site.Params.env "production") }}
-<meta name="robots" content="index, follow">
-{{- else }}
-<meta name=" robots" content="noindex, nofollow">
-{{- end -}}
+<meta name="robots" content="noindex, nofollow">
 <!-- Title -->
 <title>{{ if .IsHome }}{{else}}{{ if .Title }}{{ .Title }} &bull; {{ end }}{{end}}{{ .Site.Title }}</title>
 <!-- Meta -->
@@ -16,17 +11,10 @@
     {{- .Summary | default (printf "%s - %s" .Title  .Site.Title) }}{{- else }}
     {{- with .Site.Params.description }}{{ . }}{{- end }}{{- end }}{{- end -}}">
 <meta name="author" content="{{ (partial "author.html" . ) }}">
-<link rel="preconnect" href="https://fonts.gstatic.com">
 <link rel="stylesheet" href="https://use.typekit.net/pyn4wgi.css">
 <link rel="canonical" href="{{ if .Params.canonicalURL -}} {{ trim .Params.canonicalURL " " }} {{- else -}} {{ .Permalink }} {{- end }}" />
 {{- if .Site.Params.analytics.google.SiteVerificationTag }}
 <meta name="google-site-verification" content="{{ .Site.Params.analytics.google.SiteVerificationTag }}" />
-{{- end}}
-{{- if .Site.Params.analytics.yandex.SiteVerificationTag }}
-<meta name="yandex-verification" content="{{ .Site.Params.analytics.yandex.SiteVerificationTag }}" />
-{{- end}}
-{{- if .Site.Params.analytics.bing.SiteVerificationTag }}
-<meta name="msvalidate.01" content="{{ .Site.Params.analytics.bing.SiteVerificationTag }}" />
 {{- end}}
 <!-- Styles -->
 {{- $common := (resources.Match "css/*.css") | resources.Concat "assets/css/common.css" }}
