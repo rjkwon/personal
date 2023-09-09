@@ -1,0 +1,19 @@
+baseURL = "http://localhost:8080/projects"
+languageCode = "en-us"
+title = "projects"
+theme = "minimal"
+contentDir = "../content/projects"
+publishDir = "../sites/projects"
+dataDir = "data"
+enableDataTemplates = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[taxonomies]
+category = "categories"
+
+[permalinks]
+internet-is-fun = "/projects/internet-is-fun/:slug/"

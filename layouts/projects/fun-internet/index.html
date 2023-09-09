@@ -1,0 +1,22 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+{{ .Content }}
+
+<h2>My Data Table</h2>
+<table>
+  <thead>
+    <tr>
+      <th>Header 1</th>
+      <th>Header 2</th>
+    </tr>
+  </thead>
+  <tbody>
+    {{ range $.Site.Data.mydata }}
+    <tr>
+      <td>{{ .URL }}</td>
+      <td>{{ .Title }}</td>
+    </tr>
+    {{ end }}
+  </tbody>
+</table>
+{{ end }}

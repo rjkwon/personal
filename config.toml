@@ -3,6 +3,8 @@ languageCode = "en-us"
 title = "Kwon.nyc"
 theme = "papermod"
 publishDir = "kwon.nyc"
+dataDir = "data"
+enableDataTemplates = true
 
 [[menu.main]]
 identifier = "about"
@@ -20,3 +22,4 @@ weight = 20
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
