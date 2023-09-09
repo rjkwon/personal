@@ -43,14 +43,6 @@ h6 {
     color: var(--primary);
 }
 
-h1, 
-h2,
-h3 {
-    font-family: new-spirit,serif;
-    font-weight: 400;
-    font-style: normal;
-}
-
 body {
     font-weight: 400;
     font-style: normal;
@@ -60,6 +52,14 @@ body {
     letter-spacing: 0.02em;
     word-break: break-word;
     background: var(--theme);
+}
+
+h1, 
+h2,
+h3 {
+    font-family: new-spirit,serif;
+    font-weight: 400;
+    font-style: normal;
 }
 
 article,

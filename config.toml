@@ -2,7 +2,7 @@ baseURL = "https://kwon.nyc/"
 languageCode = "en-us"
 title = "Kwon.nyc"
 theme = "papermod"
-publishDir = "kwon.nyc"
+publishDir = "sites/kwon.nyc"
 dataDir = "data"
 enableDataTemplates = true
 
@@ -23,3 +23,5 @@ weight = 20
     [markup.goldmark.renderer]
       unsafe = true
 
+[params]
+  mainSections = ['notes']

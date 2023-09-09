@@ -16,16 +16,7 @@
 
 {{- $pages = where site.RegularPages "Type" "notes" }}
 
-
-{{ $term := .Data.Term}}
-{{- range .Pages }}
-
-{{- $class := "post-entry" }}
-
-{{- $user_preferred := or .Site.Params.disableSpecial1stPost .Site.Params.homeInfoParams }}
-
-
-{{ range first 1 .Pages }}
+{{ range first 1 $pages }}
     <article class="snippet">
       <header>
           <h1><a href="{{ .RelPermalink }}">{{ .Title }}</a></h1>
@@ -34,11 +25,11 @@
       </header>
         <div class="post-summary">{{ .Summary }}{{ if .Truncated }}...
           <p><a href="{{ .RelPermalink }}">Keep reading</a></p>
-      {{ end }}</div>
+        {{ end }}
+        </div>
     </article>
-  
 {{ end }}
-  {{- end }}
+  
 
 <div class="sidebar">
 
