@@ -1,0 +1,27 @@
+
+{{- define "main" }}
+
+{{ .Content }}
+
+{{ $jsonData := index $.Site.Data.fun }}
+
+<table>
+  <thead>
+    <tr>
+      <th class="article">Article</th>
+      <th class="author">Author</th>
+      <th>Date published ↓</th>
+    </tr>
+  </thead>
+  <tbody>
+    {{ range $jsonData }}
+    <tr>
+      <td class="title"><a href="{{ .url }}">{{ .title }}</a></td>
+      <td class="author"><a href="{{ .authorUrl }}">{{ .author }}</a></td>
+      <td class="date">{{ .datePublished }}</td>
+    </tr>
+    {{ end }}
+  </tbody>
+</table>
+
+{{ end }}

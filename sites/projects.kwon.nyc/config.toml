@@ -1,0 +1,15 @@
+baseURL = "http://projects.kwon.nyc/"
+languageCode = "en-us"
+title = "projects.kwon.nyc"
+publishDir = "public"
+contentDir = "content"
+dataDir = "data"
+enableDataTemplates = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[taxonomies]
+category = "categories"

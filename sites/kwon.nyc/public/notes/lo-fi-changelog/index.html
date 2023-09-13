@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+
+<head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="noindex, nofollow">
+
+<title>Lo-fi changelog &bull; Kwon.nyc</title>
+
+<meta name="keywords" content="" />
+<meta name="description" content="I made a changelog.
+This was a fun little morning project for me. I&rsquo;ve seen others do a thing where the changelog is simply a list of all commit messages in reverse chronological order, so I decided to try it. With any &ldquo;small&rdquo; coding project, I find that I generally grossly underestimate the time it will take to accomplish a seemingly simple thing, but I learn a lot and also have fun with all the side quests.">
+<meta name="author" content="">
+<link rel="stylesheet" href="https://use.typekit.net/pyn4wgi.css">
+<link rel="canonical" href="https://kwon.nyc/notes/lo-fi-changelog/" />
+<link href="/assets/css/stylesheet.min.c86f6e59daa71e168a27498183b6b46caa3bb257c3bf902f76e5abfea96d8a81.css" integrity="sha256-yG9uWdqnHhaKJ0mBg7a0bKo7slfDv5AvduWr/qltioE=" rel="preload stylesheet"
+    as="style">
+
+
+
+
+
+<link rel="icon" href="https://kwon.nyc/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://kwon.nyc/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://kwon.nyc/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://kwon.nyc/apple-touch-icon.png">
+<link rel="mask-icon" href="https://kwon.nyc/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<meta name="generator" content="Hugo 0.82.0" />
+
+
+<meta property="og:title" content="Lo-fi changelog" />
+<meta property="og:description" content="I made a changelog.
+This was a fun little morning project for me. I&rsquo;ve seen others do a thing where the changelog is simply a list of all commit messages in reverse chronological order, so I decided to try it. With any &ldquo;small&rdquo; coding project, I find that I generally grossly underestimate the time it will take to accomplish a seemingly simple thing, but I learn a lot and also have fun with all the side quests." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://kwon.nyc/notes/lo-fi-changelog/" /><meta property="article:section" content="notes" />
+<meta property="article:published_time" content="2023-04-27T07:38:45-04:00" />
+<meta property="article:modified_time" content="2023-04-27T07:38:45-04:00" />
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Lo-fi changelog"/>
+<meta name="twitter:description" content="I made a changelog.
+This was a fun little morning project for me. I&rsquo;ve seen others do a thing where the changelog is simply a list of all commit messages in reverse chronological order, so I decided to try it. With any &ldquo;small&rdquo; coding project, I find that I generally grossly underestimate the time it will take to accomplish a seemingly simple thing, but I learn a lot and also have fun with all the side quests."/>
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position":  1 ,
+      "name": "Notes",
+      "item": "https://kwon.nyc/notes/"
+    }, 
+    {
+      "@type": "ListItem",
+      "position":  2 ,
+      "name": "Lo-fi changelog",
+      "item": "https://kwon.nyc/notes/lo-fi-changelog/"
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Lo-fi changelog",
+  "name": "Lo-fi changelog",
+  "description": "I made a changelog.\nThis was a fun little morning project for me. I\u0026rsquo;ve seen others do a thing where the changelog is simply a list of all commit messages in reverse chronological order, so I decided to try it. With any \u0026ldquo;small\u0026rdquo; coding project, I find that I generally grossly underestimate the time it will take to accomplish a seemingly simple thing, but I learn a lot and also have fun with all the side quests.",
+  "keywords": [
+    
+  ],
+  "articleBody": "I made a changelog.\nThis was a fun little morning project for me. I’ve seen others do a thing where the changelog is simply a list of all commit messages in reverse chronological order, so I decided to try it. With any “small” coding project, I find that I generally grossly underestimate the time it will take to accomplish a seemingly simple thing, but I learn a lot and also have fun with all the side quests.\nIn this case, I did some googling and found some articles this Free Code Camp article is the main one I used, and immediately found out I have been writing bad commit messages (apparently the best practice is to use the imperative mood, e.g. “add changelog”, not the past tense, as I’ve been doing). Okay, noted!\nSince my web skills are self taught, I am trying to be more intentional about identifying and developing good habits and hygiene with coding. (I feel like there is a parallel to surgery here, where even though the end result of a procedure by two different surgeons might look the same, the one who throws their stitches meticulously and ties their knots perfectly square has “better” technique—although that might be less important for, say, a trauma laparotomy for a patient who’s exsanguinating versus an elective plastic surgical procedure. Context matters. I wonder if it’s the same with coding.)\nI also read a little bit about pretty formats for commits.\nIn the end, this is where I ended up code-wise:\n1  git log --pretty=format:\"* %as %s\"  CHANGELOG.md    which generated this: https://github.com/rjkwon/personal/blob/main/CHANGELOG.md\nI like this solution for now because it’s lightweight but does the job.\nI also learned how to use the highlight shortcode for displaying that code using Hugo. Now I just need to figure out where blob came from… and look into further automating this (potentially with a cron job?)… and maybe making it a page on the website instead of just a .md file…\n",
+  "wordCount" : "329",
+  "inLanguage": "en",
+  "datePublished": "2023-04-27T07:38:45-04:00",
+  "dateModified": "2023-04-27T07:38:45-04:00",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://kwon.nyc/notes/lo-fi-changelog/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Kwon.nyc",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://kwon.nyc/favicon.ico"
+    }
+  }
+}
+</script>
+
+
+
+
+<script defer data-domain="kwon.nyc" src="https://plausible.io/js/plausible.js"></script>
+
+
+</head>
+
+<body class="" id="top">
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.body.classList.add('dark');
+    }
+
+</script>
+<noscript>
+    <style type="text/css">
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: #1d1e20;
+                --entry: #2e2e33;
+                --primary: rgba(255, 255, 255, 0.84);
+                --secondary: rgba(255, 255, 255, 0.56);
+                --tertiary: rgba(255, 255, 255, 0.16);
+                --content: rgba(255, 255, 255, 0.74);
+                --hljs-bg: #2e2e33;
+                --code-bg: #37383e;
+                --border: #333;
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-track {
+                background: 0 0;
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-thumb {
+                border-color: var(--theme);
+            }
+        }
+    </style>
+
+</noscript>
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <img src="/images/logo.svg" alt="권" /> 
+            
+            <a href="https://kwon.nyc/" title="Lo-fi changelog">Kwon.nyc</a>
+            
+        </div>
+        <ul id="menu" onscroll="menu_on_scroll()">
+            <li>
+                <a href="https://kwon.nyc/about/" title="About">
+                    <span>About</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://kwon.nyc/notes/" title="Notes">
+                    <span>Notes</span>
+                </a>
+            </li><li>
+                <span class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)">
+<span id="moon">🕶</span>
+<span id="sun">💡</span>
+                </button>
+                </span>
+            </li>
+        </ul>
+    </nav>
+</header>
+
+    <main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+
+    <h1 class="post-title">
+      Lo-fi changelog
+    </h1>
+    <div class="post-meta">Thursday, April 27, 2023
+
+
+</div>
+  </header> 
+
+  <div class="post-content">
+<p>I made a <a href="https://github.com/rjkwon/personal/blob/main/CHANGELOG.md">changelog</a>.</p>
+<p>This was a fun little morning project for me. I&rsquo;ve seen others do a thing where the changelog is simply a list of all commit messages in reverse chronological order, so I decided to try it. With any &ldquo;small&rdquo; coding project, I find that I generally grossly underestimate the time it will take to accomplish a seemingly simple thing, but I learn a lot and also have fun with all the side quests.</p>
+<p>In this case, I did some googling and found some articles <a href="https://www.freecodecamp.org/news/a-beginners-guide-to-git-what-is-a-changelog-and-how-to-generate-it/">this Free Code Camp article is the main one I used</a>, and immediately found out I have been writing bad commit messages (apparently the best practice is to use the <a href="https://stackoverflow.com/questions/3580013/should-i-use-past-or-present-tense-in-git-commit-messages">imperative mood</a>, e.g. &ldquo;add changelog&rdquo;, not the past tense, as I&rsquo;ve been doing). Okay, noted!</p>
+<p>Since my web skills are self taught, I am trying to be more intentional about identifying and developing good habits and hygiene with coding. (I feel like there is a parallel to surgery here, where even though the end result of a procedure by two different surgeons might look the same, the one who throws their stitches meticulously and ties their knots perfectly square has &ldquo;better&rdquo; technique—although that might be less important for, say, a trauma laparotomy for a patient who&rsquo;s exsanguinating versus an elective plastic surgical procedure. Context matters. I wonder if it&rsquo;s the same with coding.)</p>
+<p>I also read a little bit about <a href="https://git-scm.com/docs/pretty-formats">pretty formats for commits</a>.</p>
+<p>In the end, this is where I ended up code-wise:</p>
+<div class="highlight"><div style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">
+<table style="border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+</span></code></pre></td>
+<td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-go" data-lang="go"><span style="color:#a6e22e">git</span> <span style="color:#a6e22e">log</span> <span style="color:#f92672">--</span><span style="color:#a6e22e">pretty</span>=<span style="color:#a6e22e">format</span>:<span style="color:#e6db74">&#34;* %as %s&#34;</span> &gt; <span style="color:#a6e22e">CHANGELOG</span>.<span style="color:#a6e22e">md</span>
+</code></pre></td></tr></table>
+</div>
+</div>
+<p>which generated this: <a href="https://github.com/rjkwon/personal/blob/main/CHANGELOG.md">https://github.com/rjkwon/personal/blob/main/CHANGELOG.md</a></p>
+<p>I like this solution for now because it&rsquo;s lightweight but does the job.</p>
+<p>I also learned how to use the <code>highlight</code> <a href="https://gohugo.io/content-management/syntax-highlighting/">shortcode</a> for displaying that code using Hugo. Now I just need to figure out where <code>blob</code> came from&hellip; and look into further automating this (potentially with a cron job?)&hellip; and maybe making it a page on the website instead of just a <code>.md</code> file&hellip;</p>
+
+</div>
+  <footer class="post-footer">
+  </footer>
+</article>
+    </main><footer class="footer">
+    <div class="top">
+        <span><a href="https://kwon.nyc/">Kwon.nyc</a> is made by me in Brooklyn</span>
+        <span>&copy; 2023 <a href="mailto:kwon at fastmail.com">Rachel J. Kwon 권어진</a></span>
+
+    </div>
+    <div class="bottom-left">
+        <span><a href="https://kwon.nyc/colophon">Colophon</a></span>
+        <span><a href="https://kwon.nyc/notes/index.xml">RSS feed</a></span>
+        <span><a href="https://github.com/rjkwon/personal">Source</a></span>
+        <span><a href="mailto:kwon at fastmail.com">Email me</a></span>
+    </div>
+    <div class="bottom-right">
+        <span><a rel="me" href="https://mastodon.social/@rjkwon">Mastodon</a></span>
+        <span><a href="https://www.linkedin.com/in/rjkwon/">LinkedIn</a></span>
+        <span><a href="https://www.last.fm/user/rjkwon">Last.fm</a></span>
+        
+    </div>   
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)">
+    <button class="top-link" id="top-link" type="button" accesskey="g">☝️
+    </button>
+</a>
+
+
+
+<script defer src="/assets/js/highlight.min.7680afc38aa6b15ddf158a4f3780b7b1f7dde7e91d26f073e6229bb7a0793c92.js" integrity="sha256-doCvw4qmsV3fFYpPN4C3sffd5&#43;kdJvBz5iKbt6B5PJI="
+    onload="hljs.initHighlightingOnLoad();"></script>
+<script>
+    window.onload = function () {
+        if (localStorage.getItem("menu-scroll-position")) {
+            document.getElementById('menu').scrollLeft = localStorage.getItem("menu-scroll-position");
+        }
+    }
+
+    function menu_on_scroll() {
+        localStorage.setItem("menu-scroll-position", document.getElementById('menu').scrollLeft);
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+
+</body>
+
+</html>
