@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>projects.kwon.nyc</title>
-    <link>http://projects.kwon.nyc/</link>
+    <link>https://projects.kwon.nyc/</link>
     <description>Recent content on projects.kwon.nyc</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://projects.kwon.nyc/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://projects.kwon.nyc/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Remember when the internet was fun?</title>
-      <link>http://projects.kwon.nyc/internet-is-fun/</link>
+      <title>The internet used to be fun</title>
+      <link>https://projects.kwon.nyc/internet-is-fun/</link>
       <pubDate>Sun, 03 Sep 2023 12:13:12 -0400</pubDate>
       
-      <guid>http://projects.kwon.nyc/internet-is-fun/</guid>
-      <description>The internet used to be fun I&amp;rsquo;ve been meaning to write some kind of Important Thinkpiece™ on the glory days of the early internet, but every time I sat down to do it, I would find others that were already out there. All of these articles answer the question “Why have a personal website?” with &amp;ldquo;Because it&amp;rsquo;s fun, and the internet used to be fun&amp;rdquo; to some degree. Some are the author’s story of why and how they have their own website; others are more pleading, manifesto-flavored calls to action.</description>
+      <guid>https://projects.kwon.nyc/internet-is-fun/</guid>
+      <description>The internet used to be ✨fun✨ I&amp;rsquo;ve been meaning to write some kind of Important Thinkpiece™ on the glory days of the early internet, but every time I sit down to do it, I find another, better piece that someone else has already written. So for now, here&amp;rsquo;s a collection of articles that to some degree answer the question “Why have a personal website?” with &amp;ldquo;Because it&amp;rsquo;s fun, and the internet used to be fun.</description>
     </item>
     
   </channel>
