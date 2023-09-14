@@ -1,4 +1,4 @@
-baseURL = "http://projects.kwon.nyc/"
+baseURL = "https://projects.kwon.nyc/"
 languageCode = "en-us"
 title = "projects.kwon.nyc"
 publishDir = "public"
