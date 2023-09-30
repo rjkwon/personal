@@ -10,7 +10,8 @@
     <tr>
       <th class="article">Article</th>
       <th class="author">Author</th>
-      <th>Date published ↓</th>
+      <th>Date published</th>
+      <th>Date added ↓</th>
     </tr>
   </thead>
   <tbody>
@@ -19,6 +20,7 @@
       <td class="title"><a href="{{ .url }}">{{ .title }}</a></td>
       <td class="author"><a href="{{ .authorUrl }}">{{ .author }}</a></td>
       <td class="date">{{ .datePublished }}</td>
+      <td class="date added">{{ .dateAdded }}</td>
     </tr>
     {{ end }}
   </tbody>
