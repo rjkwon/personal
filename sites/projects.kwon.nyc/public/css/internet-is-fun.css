@@ -53,13 +53,18 @@ th {
 	letter-spacing: 0.1em;
 }
 
-th.article {
-	width: 50%;
-}
+/*column widths*/
+	th.article {
+		width: 40%;
+	}
 
-th.author {
-	width: 30%;
-}
+	th.author {
+		width: 25%;
+	}
+
+	th.date {
+		width: 17%;
+	}
 
 td.title {
 	padding-right: 0.6em;
@@ -128,5 +133,10 @@ footer img {
 	td.date {
 		font-size: 1em;
 		padding-top: 0.3em;
-	}    
+	} 
+
+	td.added {
+		display: none !important;
+	}   
+
 }
