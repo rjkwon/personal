@@ -1,4 +1,3 @@
-
 {{- define "main" }}
 
 {{ .Content }}
@@ -18,7 +17,11 @@
     {{ range $jsonData }}
     <tr>
       <td class="title"><a href="{{ .url }}">{{ .title }}</a></td>
-      <td class="author"><a href="{{ .authorUrl }}">{{ .author }}</a></td>
+      <td class="author">
+        {{ range .authors }}
+          <a href="{{ .authorUrl }}">{{ .authorName }}</a><br />
+        {{ end }}
+      </td>
       <td class="date">{{ .datePublished }}</td>
       <td class="date added">{{ .dateAdded }}</td>
     </tr>
